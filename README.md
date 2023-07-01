@@ -1,7 +1,4 @@
-# marinehydrodynamics
+# Marine Hydrodynamics
 
-The purpose of this first exercise is two fold :
+There are a collection of 10 test cases that cover the area of marine hydrodynamics and associated videos that describe a bit of the analysis.
 
-1. To understand the relationship between the Joukowski transformation and the form of the hydrofoil created. 
-
-2. To look at simple 1D models of VIV.
